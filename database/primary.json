@@ -1,0 +1,70 @@
+{
+    "version": "0.0.1",
+    "entries": {
+        "-O3": {
+            "Domain": "蓝星",
+            "Kingdom": "理",
+            "Phylum": "数理",
+            "Class": "计算机科学",
+            "Order": "语言分析",
+            "Family": "编译器",
+            "Genus": "静态编译器",
+            "Species": "GNU Compiler Collection",
+            "Abbreviation": "gcc",
+            "data": {
+                "title": "-O3",
+                "content": "Optimize yet more. ‘-O3’ turns on all optimizations specified by ‘-O2’ and also turns on the following optimization flags:"
+            }
+        },
+        "clang": {
+            "Domain": "蓝星",
+            "Kingdom": "理",
+            "Phylum": "数理",
+            "Class": "计算机科学",
+            "Order": "语言分析",
+            "Family": "编译器",
+            "Genus": "静态编译器",
+            "Species": "clang",
+            "data": {
+                "title": "clang",
+                "content": "Clang /ˈklæŋ/[5] is a compiler front end for the C, C++, Objective-C and Objective-C++ programming languages, as well as the OpenMP,[6] OpenCL, RenderScript, CUDA and HIP[7] frameworks. It uses the LLVM compiler infrastructure as its back end and has been part of the LLVM release cycle since LLVM 2.6.\nIt is designed to act as a drop-in replacement for the GNU Compiler Collection (GCC), supporting most of its compilation flags and unofficial language extensions.[8][9] Its contributors include Apple, Microsoft, Google, ARM, Sony, Intel and Advanced Micro Devices (AMD). It is open-source software,[10] with source code released under the University of Illinois/NCSA License, a permissive free software licence. Since v9.0.0, it was relicensed to the Apache License 2.0 with LLVM Exceptions.[4]\nClang 12, the latest major version of Clang as of April 2021, has full support for all published C++ standards up to C++17, implements most features of C++20, and adds initial support for the upcoming C++23 standard.[11] Since v6.0.0, Clang compiles C++ using the GNU++14 dialect by default, which includes features from the C++14 standard and conforming GNU extensions.[12]\nThe Clang project includes the Clang front end, a static analyzer, and several code analysis tools.[13]\n"
+            }
+        },
+        "color-theme": {
+            "Domain": "蓝星",
+            "Kingdom": "理",
+            "Phylum": "数理",
+            "Class": "计算机科学",
+            "Order": "操作系统",
+            "Family": "系统接口",
+            "Genus": "终端",
+            "Species": "Windows Terminal",
+            "data": {
+                "title": "Windows Terminal",
+                "content": {
+                    "background": "#262A33",
+                    "black": "#000000",
+                    "blue": "#2472C8",
+                    "brightBlack": "#666666",
+                    "brightBlue": "#2472C8",
+                    "brightCyan": "#0FA8CD",
+                    "brightGreen": "#05BC79",
+                    "brightPurple": "#BC3FBC",
+                    "brightRed": "#CD3131",
+                    "brightWhite": "#E5E5E5",
+                    "brightYellow": "#E5E512",
+                    "cursorColor": "#F8F8F0",
+                    "cyan": "#0FA8CD",
+                    "foreground": "#E5E5E5",
+                    "green": "#05BC79",
+                    "name": "Mine",
+                    "purple": "#BC3FBC",
+                    "red": "#CD3131",
+                    "selectionBackground": "#5A5C62",
+                    "white": "#E5E5E5",
+                    "yellow": "#E5E512"
+                }
+            }
+        }
+    }
+}
